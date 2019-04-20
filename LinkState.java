@@ -10,8 +10,8 @@ import java.util.Scanner;
 
 /**
  * 
- * @author Pranav Patel Class that contains the code for A3 LinkState class will
- *         implement Dijkstras algorithm
+ * @author Pranav Patel
+ * Class implement Dijkstras algorithm
  *
  */
 public class LinkState {
